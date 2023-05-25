@@ -2,7 +2,7 @@
 
 This repository provides the code for the methods and experiments presented in our paper '**Cross-Layer Multi-Attention Guided Spectral-Spatial Classification of Hyperspectral Images**'. You can find the PDF of this paper on: https://ieeexplore.ieee.org/document/9884892
 
-![GMA-Net](CLMA-Net.png)
+![CLMA-Net](CLMA-Net.png)
 
 **If you have any questions, you can send me an email. My mail address is liumengkai@hnu.edu.cn.**
 
